@@ -34,13 +34,13 @@ From the project root directory:
 
 ```bash
 python GUI.py
-```
+
 
 or
 
 ```bash
 python ui.py
-```
+``
 
 ### How to Play
 
