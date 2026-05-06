@@ -8,11 +8,11 @@ A comprehensive Sudoku application built in Python featuring a Constraint Satisf
 - **Puzzle Generator**: Randomly generates valid Sudoku puzzles with configurable difficulty
 - **Interactive GUI**: User-friendly Tkinter interface with real-time input validation
 - **Game Features**:
-  - Timer functionality
-  - New Game generation
-  - Reset board option
-  - Hint system
-  - Solution validation
+  Timer functionality
+   New Game generation
+   Reset board option
+   Hint system
+   Solution validation
 - **Validation**: Comprehensive checks for Sudoku constraints (rows, columns, 3x3 boxes)
 
 ## Requirements
